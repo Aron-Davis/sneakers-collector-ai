@@ -1,0 +1,422 @@
+[
+  {
+    "id": "air-jordan-1-chicago-2015",
+    "title": "Nike Air Jordan 1 Retro High OG Chicago 2015",
+    "brand": "Nike",
+    "model": "Air Jordan 1 Retro High OG",
+    "colorway": "Chicago",
+    "style_code": "555088-101",
+    "release_date": "2015-05-30",
+    "description": "2015 retro release of the Air Jordan 1 High OG in the original Chicago-inspired White, Varsity Red and Black colorway.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Complete Release Info For This Saturday's Air Jordan 1 Retro High OG"
+    }
+  },
+  {
+    "id": "air-max-1-anniversary-red-2017",
+    "title": "Nike Air Max 1 OG Anniversary Red 2017",
+    "brand": "Nike",
+    "model": "Air Max 1 OG Anniversary",
+    "colorway": "White University Red Neutral Grey Black",
+    "style_code": "908375-103",
+    "release_date": "2017-09-26",
+    "description": "Anniversary edition of the Air Max 1 inspired by the original white, red and grey color scheme.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Next Week's Nike Air Max 1 Retro Releasing With Anniversary Box"
+    }
+  },
+  {
+    "id": "nike-dunk-low-panda-2021",
+    "title": "Nike Dunk Low Panda",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "White Black",
+    "style_code": "DD1391-100",
+    "release_date": "2021-03-10",
+    "description": "Two-tone white and black Nike Dunk Low commonly known as the Panda colorway.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Where To Buy The Nike Dunk Low Panda"
+    }
+  },
+  {
+    "id": "new-balance-990v6-grey",
+    "title": "New Balance 990v6 Grey",
+    "brand": "New Balance",
+    "model": "990v6",
+    "colorway": "Grey",
+    "style_code": "M990GL6",
+    "release_date": "2022-11-04",
+    "description": "Made in USA 990v6 in New Balance's heritage grey colorway, featuring FuelCell cushioning and an updated upper design.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "The New Balance 990v6 Releases Globally On November 4th"
+    }
+  },
+  {
+    "id": "nike-air-force-1-07-white",
+    "title": "Nike Air Force 1 '07 White",
+    "brand": "Nike",
+    "model": "Air Force 1 '07",
+    "colorway": "White White",
+    "style_code": "CW2288-111",
+    "release_date": null,
+    "description": "White-on-white Air Force 1 '07 with a leather upper, perforated toe box and Nike Air cushioning.",
+    "source": {
+      "name": "Nike",
+      "title": "Nike Air Force 1 '07 Men's Shoes"
+    }
+  },
+  {
+    "id": "air-jordan-4-bred-2019",
+    "title": "Air Jordan 4 Retro Bred 2019",
+    "brand": "Nike",
+    "model": "Air Jordan 4 Retro",
+    "colorway": "Black Cement Grey Summit White Fire Red",
+    "style_code": "308497-060",
+    "release_date": "2019-05-04",
+    "description": "2019 retro of the Air Jordan 4 Bred, also known as Black Cement, with black nubuck, Fire Red and Cement Grey accents and Nike Air branding on the heel.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Air Jordan 4 Bred Releases Today"
+    }
+  },
+  {
+    "id": "air-jordan-11-concord-2018",
+    "title": "Air Jordan 11 Concord 2018",
+    "brand": "Nike",
+    "model": "Air Jordan 11",
+    "colorway": "White Black Dark Concord",
+    "style_code": "378037-100",
+    "release_date": "2018-12-08",
+    "description": "2018 return of the Air Jordan 11 Concord with a white mesh upper, black patent leather mudguard and Dark Concord details.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "The Air Jordan 11 Concord Has A Release Date"
+    }
+  },
+  {
+    "id": "air-jordan-3-black-cement-2018",
+    "title": "Air Jordan 3 Black Cement 2018",
+    "brand": "Nike",
+    "model": "Air Jordan 3 Retro OG",
+    "colorway": "Black Fire Red Cement Grey",
+    "style_code": "854262-001",
+    "release_date": "2018-02-17",
+    "description": "2018 Black Cement retro of the Air Jordan 3 with black leather, elephant-print overlays, Fire Red accents and Nike Air heel branding.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Air Jordan 3 Black/Cement Complete Size And Price Info"
+    }
+  },
+  {
+    "id": "air-jordan-6-infrared-2019",
+    "title": "Air Jordan 6 Black Infrared 2019",
+    "brand": "Nike",
+    "model": "Air Jordan 6 Retro",
+    "colorway": "Black Infrared",
+    "style_code": "384664-060",
+    "release_date": "2019-02-16",
+    "description": "2019 retro of the Air Jordan 6 Infrared featuring a black upper, bright Infrared accents and Nike Air branding on the heel.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Detailed Look At The Air Jordan 6 Infrared 2019 Retro"
+    }
+  },
+  {
+    "id": "air-jordan-4-white-cement-2016",
+    "title": "Air Jordan 4 White Cement 2016",
+    "brand": "Nike",
+    "model": "Air Jordan 4 Retro",
+    "colorway": "White Fire Red Black Tech Grey",
+    "style_code": "840606-192",
+    "release_date": "2016-02-13",
+    "description": "2016 retro of the Air Jordan 4 White Cement with a white leather upper, speckled grey detailing and Nike Air branding on the heel.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Cop The White Cement 4s With Nike Air Early"
+    }
+  },
+  {
+    "id": "air-jordan-4-military-black-2022",
+    "title": "Air Jordan 4 Military Black 2022",
+    "brand": "Nike",
+    "model": "Air Jordan 4 Retro",
+    "colorway": "White Black Neutral Grey",
+    "style_code": "DH6927-111",
+    "release_date": "2022-05-21",
+    "description": "Air Jordan 4 colorway inspired by the original Military Blue blocking, replacing the blue accents with black on a white and light-grey base.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Where To Buy The Air Jordan 4 Military Black"
+    }
+  },
+  {
+    "id": "air-jordan-1-shadow-2018",
+    "title": "Air Jordan 1 Retro High OG Shadow 2018",
+    "brand": "Nike",
+    "model": "Air Jordan 1 Retro High OG",
+    "colorway": "Black Medium Grey White",
+    "style_code": "555088-013",
+    "release_date": "2018-04-14",
+    "description": "2018 return of the Air Jordan 1 Shadow in its classic black and medium-grey color blocking with OG-style Nike Air tongue branding.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Official Images Of The Air Jordan 1 Retro High OG Shadow"
+    }
+  },
+  {
+    "id": "nike-dunk-low-kentucky-2020",
+    "title": "Nike Dunk Low Kentucky 2020",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "White Game Royal",
+    "style_code": "CU1726-100",
+    "release_date": "2020-03-14",
+    "description": "White and royal-blue Dunk Low inspired by the Kentucky entry in Nike's Be True To Your School color family.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "The Nike Dunk Low Kentucky Is Releasing In March"
+    }
+  },
+  {
+    "id": "nike-dunk-low-syracuse-2020",
+    "title": "Nike Dunk Low Syracuse 2020",
+    "brand": "Nike",
+    "model": "Dunk Low",
+    "colorway": "White Orange Blaze",
+    "style_code": "CU1726-101",
+    "release_date": "2020-03-14",
+    "description": "White and orange Dunk Low inspired by Syracuse University and Nike's original Be True To Your School color palette.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Where To Buy The Nike Dunk Low Syracuse"
+    }
+  },
+  {
+    "id": "nike-sb-dunk-low-chunky-dunky-2020",
+    "title": "Ben & Jerry's x Nike SB Dunk Low Chunky Dunky",
+    "brand": "Nike",
+    "model": "SB Dunk Low",
+    "colorway": "Multi Color White University Gold",
+    "style_code": "CU3244-100",
+    "release_date": "2020-05-26",
+    "description": "Ben & Jerry's collaboration inspired by Chunky Monkey packaging, with cow-print overlays, blue and green panels, melting yellow Swooshes and multicolor lining.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "The Ben & Jerry's x Nike SB Chunky Dunky Releases Today On SNKRS"
+    }
+  },
+  {
+    "id": "nike-air-max-97-silver-bullet-2022",
+    "title": "Nike Air Max 97 Silver Bullet 2022",
+    "brand": "Nike",
+    "model": "Air Max 97",
+    "colorway": "Metallic Silver University Red Black White",
+    "style_code": "DM0028-002",
+    "release_date": "2022-11-11",
+    "description": "2022 anniversary retro of the Air Max 97 Silver Bullet with a metallic-silver layered upper, reflective detailing and red Swoosh accents.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Official Images Of The Nike Air Max 97 Silver Bullet 2022"
+    }
+  },
+  {
+    "id": "nike-air-max-1-86-big-bubble-2023",
+    "title": "Nike Air Max 1 '86 Big Bubble Sport Red",
+    "brand": "Nike",
+    "model": "Air Max 1 '86",
+    "colorway": "White University Red Light Neutral Grey",
+    "style_code": "DQ3989-100",
+    "release_date": "2023-03-26",
+    "description": "Air Max Day 2023 release that recreates the early Air Max 1 construction with a larger visible heel Air unit and the classic Sport Red color scheme.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Nike Air Max 1 '86 Big Bubble 2023"
+    }
+  },
+  {
+    "id": "adidas-yeezy-boost-350-v2-zebra-2017",
+    "title": "adidas Yeezy Boost 350 V2 Zebra",
+    "brand": "adidas",
+    "model": "Yeezy Boost 350 V2",
+    "colorway": "Footwear White Core Black Red",
+    "style_code": "CP9654",
+    "release_date": "2017-02-25",
+    "description": "Yeezy Boost 350 V2 with a black-and-white striped Primeknit upper, red SPLY-350 branding and a white Boost-cushioned sole.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "Official Images Of The adidas Yeezy Boost 350 v2 Zebra"
+    }
+  },
+  {
+    "id": "adidas-samba-og-white-black",
+    "title": "adidas Samba OG White Black",
+    "brand": "adidas",
+    "model": "Samba OG",
+    "colorway": "Cloud White Core Black Gum",
+    "style_code": "B75806",
+    "release_date": null,
+    "description": "Classic Samba OG with a low-profile leather upper, suede overlays, black Three Stripes and a gum rubber sole.",
+    "source": {
+      "name": "adidas",
+      "title": "Samba OG Shoes"
+    }
+  },
+  {
+    "id": "adidas-handball-spezial-navy",
+    "title": "adidas Handball Spezial Collegiate Navy",
+    "brand": "adidas",
+    "model": "Handball Spezial",
+    "colorway": "Collegiate Navy Clear Sky Gum",
+    "style_code": "BD7633",
+    "release_date": null,
+    "description": "Heritage Handball Spezial in navy suede with light-blue Three Stripes and a gum rubber outsole, based on the handball shoe introduced in 1979.",
+    "source": {
+      "name": "adidas",
+      "title": "Handball Spezial Shoes"
+    }
+  },
+  {
+    "id": "adidas-superstar-white-black",
+    "title": "adidas Superstar White Black",
+    "brand": "adidas",
+    "model": "Superstar",
+    "colorway": "Footwear White Core Black Footwear White",
+    "style_code": "EG4958",
+    "release_date": null,
+    "description": "Classic adidas Superstar in white with black Three Stripes and the silhouette's signature rubber shell toe.",
+    "source": {
+      "name": "adidas",
+      "title": "adidas Superstar EG4958"
+    }
+  },
+  {
+    "id": "converse-chuck-70-parchment",
+    "title": "Converse Chuck 70 Vintage Canvas Parchment",
+    "brand": "Converse",
+    "model": "Chuck 70",
+    "colorway": "Parchment Garnet Egret",
+    "style_code": "162053C",
+    "release_date": null,
+    "description": "Chuck 70 high-top built from the 1970s design with durable canvas, vintage-inspired detailing, an egret midsole and OrthoLite cushioning.",
+    "source": {
+      "name": "Converse",
+      "title": "Chuck 70 Vintage Canvas"
+    }
+  },
+  {
+    "id": "vans-old-skool-black-white",
+    "title": "Vans Old Skool Black White",
+    "brand": "Vans",
+    "model": "Old Skool",
+    "colorway": "Black White",
+    "style_code": "VN000D3HY28",
+    "release_date": null,
+    "description": "Classic Vans Old Skool with suede and canvas construction, padded collar, signature Sidestripe and waffle rubber outsole.",
+    "source": {
+      "name": "Vans",
+      "title": "Old Skool Shoes"
+    }
+  },
+  {
+    "id": "new-balance-574-core-grey",
+    "title": "New Balance 574 Core Grey",
+    "brand": "New Balance",
+    "model": "574 Core",
+    "colorway": "Grey White",
+    "style_code": "ML574EVG",
+    "release_date": null,
+    "description": "Grey 574 Core with a suede and mesh upper, ENCAP midsole cushioning and the versatile road-and-trail-inspired construction associated with the 574.",
+    "source": {
+      "name": "New Balance",
+      "title": "574 Core"
+    }
+  },
+  {
+    "id": "salomon-xt6-white-lunar-rock",
+    "title": "Salomon XT-6 White Lunar Rock",
+    "brand": "Salomon",
+    "model": "XT-6",
+    "colorway": "White White Lunar Rock",
+    "style_code": "L41252900",
+    "release_date": null,
+    "description": "Sportstyle XT-6 in White and Lunar Rock, combining the trail-derived silhouette with quickLACE, cushioning and a durable technical construction.",
+    "source": {
+      "name": "Salomon",
+      "title": "XT-6 Sneakers - Unisex"
+    }
+  },
+  {
+    "id": "new-balance-550-white-green-2021",
+    "title": "New Balance 550 White Green",
+    "brand": "New Balance",
+    "model": "550",
+    "colorway": "White Green",
+    "style_code": "BB550WT1",
+    "release_date": "2021-06-24",
+    "description": "New Balance 550 with a mostly white leather upper, light-grey suede at the toe and green accents across the branding, heel and outsole.",
+    "source": {
+      "name": "Sneaker News",
+      "title": "This Boston-Friendly New Balance 550 Features Some Lucky Green Accents"
+    }
+  },
+  {
+    "id": "asics-gel-kayano-14-black-pure-silver",
+    "title": "ASICS GEL-KAYANO 14 Black Pure Silver",
+    "brand": "ASICS",
+    "model": "GEL-KAYANO 14",
+    "colorway": "Black Pure Silver",
+    "style_code": "1201A019-006",
+    "release_date": null,
+    "description": "Retro-running GEL-KAYANO 14 in Black and Pure Silver, retaining the layered leather-and-mesh look and GEL cushioning associated with the 2008 design.",
+    "source": {
+      "name": "ASICS",
+      "title": "GEL-KAYANO 14 Black/Pure Silver"
+    }
+  },
+  {
+    "id": "puma-suede-classic-xxi-black",
+    "title": "PUMA Suede Classic XXI Black",
+    "brand": "PUMA",
+    "model": "Suede Classic XXI",
+    "colorway": "Puma Black Puma Black",
+    "style_code": "374915-12",
+    "release_date": null,
+    "description": "Suede Classic XXI with a full-suede upper, low-top profile, rubber sole and metallic PUMA Suede branding.",
+    "source": {
+      "name": "PUMA",
+      "title": "Suede Classic XXI Sneakers"
+    }
+  },
+  {
+    "id": "reebok-club-c-85-white-black",
+    "title": "Reebok Club C 85 White Black",
+    "brand": "Reebok",
+    "model": "Club C 85",
+    "colorway": "White White Black",
+    "style_code": "100009940",
+    "release_date": null,
+    "description": "Club C 85 in a clean white leather-based colorway with black heel contrast, a low-profile cupsole and EVA cushioning.",
+    "source": {
+      "name": "Reebok",
+      "title": "Club C 85 Sneaker da Uomo"
+    }
+  },
+  {
+    "id": "nike-air-max-90-ltr-white",
+    "title": "Nike Air Max 90 LTR White",
+    "brand": "Nike",
+    "model": "Air Max 90 LTR",
+    "colorway": "White White White",
+    "style_code": "CZ5594-100",
+    "release_date": null,
+    "description": "Monochrome white Air Max 90 LTR with smooth leather overlays, classic TPU details, a Waffle outsole and visible Max Air cushioning in the heel.",
+    "source": {
+      "name": "Nike",
+      "title": "Air Max 90 LTR Men's Shoes"
+    }
+  }
+]
